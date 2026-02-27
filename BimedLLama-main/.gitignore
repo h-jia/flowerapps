@@ -1,0 +1,4 @@
+*slurm*
+results
+__pycache__
+peft_*
