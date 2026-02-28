@@ -4,8 +4,8 @@ build-backend = "hatchling.build"
 
 [project]
 name = "flowertune-med-llamamedx"
-version = "1.0.0"
-description = ""
+version = "1.0.2"
+description = "Federated instruction tuning of Llama-medx on Medical Meadow Medical Flashcards with LoRA, PEFT, and FedProx."
 license = "Apache-2.0"
 dependencies = [
     "flwr[simulation]>=1.12.0",
